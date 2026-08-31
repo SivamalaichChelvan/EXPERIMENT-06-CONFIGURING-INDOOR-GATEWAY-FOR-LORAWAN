@@ -126,21 +126,15 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 
 ## OUTPUT 
-<img width="711" height="912" alt="image" src="https://github.com/user-attachments/assets/215fdd58-3bf2-428e-849d-6ab8343b9c76" />
-<img width="952" height="716" alt="image" src="https://github.com/user-attachments/assets/67581f6e-7bdb-483d-80b6-a95c04ecc40a" />
-<img width="712" height="912" alt="image" src="https://github.com/user-attachments/assets/b13f7da1-8b47-44f0-a1ef-54bfd753b3fb" />
+<img width="358" height="399" alt="639917194-dab96f91-9910-418c-b938-546968d2a26f" src="https://github.com/user-attachments/assets/f25dab45-5090-4fae-a448-eee807f21aa9" />
 
+<img width="1600" height="723" alt="639917244-f83f76a0-9cde-4854-aec3-0e04b3c64974" src="https://github.com/user-attachments/assets/20dde223-3b84-463d-b5fb-2bdfaea264d1" />
 
-<img width="497" height="614" alt="Screenshot 2026-08-21 155914" src="https://github.com/user-attachments/assets/960002a7-9412-4c06-88bb-3b869a6e7563" />
+<img width="1600" height="792" alt="639917334-27559dd6-5e96-4d80-9536-6a47dc15d277" src="https://github.com/user-attachments/assets/38b3a68e-c205-44d1-b501-9e8f2dbb628a" />
 
-<img width="325" height="297" alt="Screenshot 2026-08-28 151944" src="https://github.com/user-attachments/assets/47e755b7-fba9-443f-9f0c-1c20d84fa3d1" />
+<img width="1600" height="792" alt="639917362-1eb64925-406a-4c93-b675-e431729b8c91" src="https://github.com/user-attachments/assets/a9360724-a7f8-4ec8-8a21-a846d5eb6a22" />
 
-
-<img width="1919" height="1079" alt="Screenshot 2026-08-21 160049" src="https://github.com/user-attachments/assets/25628cff-7112-46f9-97f8-551e2f032f85" />
-
-<img width="1919" height="1079" alt="Screenshot 2026-08-21 160001" src="https://github.com/user-attachments/assets/35ae955c-c9f2-41eb-a82a-f760fdac905e" />
-
-
+<img width="1600" height="791" alt="639917381-2afdbb59-1148-48d7-94ba-7a9043195c71" src="https://github.com/user-attachments/assets/7c765438-90c6-469d-a1d7-9f8b01f62681" />
 
 ## Result: 
 The Dragino LPS8 Indoor LoRaWAN Gateway was successfully configured and connected.
